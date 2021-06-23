@@ -1,6 +1,8 @@
 https://user-images.githubusercontent.com/3671250/122751487-c6795800-d2ca-11eb-82e2-c8764c9f643c.mp4
 
-
+WORKING ON: PROTOTYPING MATRIX SUPPORT FOR [Hylogen GLSL DSL IN A TYPE-SAFE MANNER](https://github.com/adpextwindong/hylogen).
+LOOKING FOR: HONEST LIVING WRITING HASKELL.
+INTERESTS: LIBERATION FROM RUNTIME ERRORS.
 <!--
 **adpextwindong/adpextwindong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
