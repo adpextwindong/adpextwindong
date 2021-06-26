@@ -1,4 +1,7 @@
-https://user-images.githubusercontent.com/3671250/122751487-c6795800-d2ca-11eb-82e2-c8764c9f643c.mp4
+Oh look a neato [GLSL example](https://github.com/adpextwindong/hylogen_glsl_demos/blob/master/app/fbm.hs) written using Hylogen:
+
+https://user-images.githubusercontent.com/3671250/123512258-77179b00-d6c1-11eb-9ca0-0a07c43ef2bf.mp4
+
 
 - WORKING ON: PROTOTYPING MATRIX SUPPORT FOR [Hylogen GLSL DSL IN A TYPE-SAFE MANNER](https://github.com/adpextwindong/hylogen).
 - LOOKING FOR: HONEST LIVING WRITING HASKELL.
