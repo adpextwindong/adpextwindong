@@ -2,23 +2,16 @@ Oh look a neato [Fractal Brownian Motion shader](https://github.com/adpextwindon
 
 https://user-images.githubusercontent.com/3671250/123532672-25ffb980-d74a-11eb-8dc3-68fe7ac1a5a2.mov
 
-- WORKED ON: MATRIX SUPPORT PROTOTYPE FOR [Hylogen GLSL DSL IN A TYPE-SAFE MANNER](https://github.com/adpextwindong/hylogen).
-- LOOKING FOR: RESEARCH ENGINEER POSITION WITHIN SHOEWEAR INDUSTRY RELATED TO 3D BODY PROCESSING. IDEALLY CAD DSL DESIGN FOR FOOTSCAN/LAST DESIGN COMPUTATION AND OPTIMIZATION. ALTERNATIVELY, RELATED GRAD SCHOOL OPPORTUNITIES.
-- INTERESTS: LIBERATION FROM RUNTIME ERRORS. DEPENDENT TYPES. DSL'S. TEACHING FP.
+## Currently working on
+- Haskell DSL for typechecking the Kagami Method foot & shoe last measurement definitions.
+
+## Stuff I've done
+- MATRIX SUPPORT PROTOTYPE FORK FOR [Hylogen GLSL DSL IN A TYPE-SAFE MANNER](https://github.com/adpextwindong/hylogen).
+- [Last Viewer](https://github.com/adpextwindong/Last-Viewer) FOR VIEWING FOOT SCANS AND SHOE LAST MODELS IN THE BROWSER. BUILT ON THREEJS + VUEJS.
+
+## Other
+- LOOKING FOR: RESEARCH ENGINEER POSITION WITHIN SHOEWEAR INDUSTRY RELATED TO 3D BODY PROCESSING. IDEALLY CAD DSL DESIGN FOR FOOTSCAN/LAST DESIGN COMPUTATION, ANALYSIS AND OPTIMIZATION. ALTERNATIVELY, RELATED GRAD SCHOOL OPPORTUNITIES.
+- INTERESTS: LIBERATION FROM RUNTIME ERRORS. DOMAIN SPECIFIC LANGUAGES, TYPE-SAFETY, DEPENDENT TYPES, FUNCTIONAL PROGRAMMING.
 - HOW TO REACH ME:
     - Twitter: [@adpextwindong](https://twitter.com/adPEXtwinDoNG)
     - Email: tcrary@gmail.com
-<!--
-**adpextwindong/adpextwindong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
