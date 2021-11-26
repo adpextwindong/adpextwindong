@@ -3,7 +3,7 @@ Oh look a neato [Fractal Brownian Motion shader](https://github.com/adpextwindon
 https://user-images.githubusercontent.com/3671250/123532672-25ffb980-d74a-11eb-8dc3-68fe7ac1a5a2.mov
 
 ## Currently working on
-- [Patrus](https://github.com/adpextwindong/Patrus/), a representation of [Crafting Interpreters](https://craftinginterpreters.com/contents.html) "A Tree-Walk Interpreter" section in Haskell.
+- [Patrus](https://github.com/adpextwindong/Patrus/), [Crafting Interpreters'](https://craftinginterpreters.com/contents.html) Lox Language Tree-Walk interpreter in Haskell.
 - [Haskell client](https://github.com/adpextwindong/RetroMMO-api-hclient) for [RetroMMO](https://retro-mmo.com/)'s public web api, using servant-client.
 - Haskell DSL for typechecking the Kagami Method foot & shoe last measurement definitions.
 
