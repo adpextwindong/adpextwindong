@@ -2,6 +2,10 @@ Oh look a neato [Fractal Brownian Motion shader](https://github.com/adpextwindon
 
 https://user-images.githubusercontent.com/3671250/123532672-25ffb980-d74a-11eb-8dc3-68fe7ac1a5a2.mov
 
+## Currently working at
+
+[WARN Industries](https://www.warn.com/) as a Full Stack Developer.
+
 ## Currently working on
 - [Obelisk](https://github.com/adpextwindong/obelisk), Raycasting rendering engine to accompany [Sanglard's Game Engine Black Book](https://fabiensanglard.net/gebbwolf3d.pdf).
 - [Patrus](https://github.com/adpextwindong/Patrus/), [Crafting Interpreters'](https://craftinginterpreters.com/contents.html) Lox Language Tree-Walk interpreter in Haskell.
@@ -13,7 +17,7 @@ https://user-images.githubusercontent.com/3671250/123532672-25ffb980-d74a-11eb-8
 - [Last Viewer](https://github.com/adpextwindong/Last-Viewer) FOR VIEWING FOOT SCANS AND SHOE LAST MODELS IN THE BROWSER. BUILT ON THREEJS + VUEJS.
 
 ## Other
-- INTERESTS: LIBERATION FROM RUNTIME ERRORS. DOMAIN SPECIFIC LANGUAGES, TYPE-SAFETY, DEPENDENT TYPES, FUNCTIONAL PROGRAMMING.
+- INTERESTS: Type Safety, Functional Programming, Domain Specific Languages.
 - HOW TO REACH ME:
     - Twitter: [@adpextwindong](https://twitter.com/adPEXtwinDoNG)
     - Email: tcrary@gmail.com
